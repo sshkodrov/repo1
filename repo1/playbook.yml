@@ -4,7 +4,7 @@ site:
   url: https://docs.myproject.com
 
 content:
-  sources:
+  sources: ./docs
    - url:
       branches: master
 
