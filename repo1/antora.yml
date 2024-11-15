@@ -6,7 +6,7 @@ site:
 content:
   sources:
     - url: ./docs     
-      branches: main
+      branches: master
 
 ui:
   bundle:
