@@ -4,10 +4,9 @@ site:
   url: https://docs.myproject.com
 
 content:
-  sources: ./docs
-   - url:
+  sources:
+    - url: ./docs
       branches: master
-
 
 ui:
   bundle:
